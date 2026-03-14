@@ -1,4 +1,4 @@
-# OJT-OpenCV-Assignment1-
+# OJT-OpenCV-Assignment2-
 Move from raw video files to a structured dataset that a machine learning model can actually digest
 
 Google Drive link for dataset:
